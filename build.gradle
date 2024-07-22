@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'crystal0404'
-version = '0.1-alpha'
+version = '0.1.0-alpha'
 
 repositories {
     mavenCentral()
